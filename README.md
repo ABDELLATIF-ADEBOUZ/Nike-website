@@ -6,7 +6,7 @@ Nike Website Using HTML5 and CSS3
 
 ## Authors
 
-- [@octokatherine](https://github.com/ABDELLATIF-ADEBOUZ)
+- [@ABDELLATIF-ADEBOUZ](https://github.com/ABDELLATIF-ADEBOUZ)
 
 
 ## Screenshots
