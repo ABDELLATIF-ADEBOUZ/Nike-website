@@ -9,7 +9,7 @@ Nike Website Using HTML5 and CSS3
 - [@ABDELLATIF-ADEBOUZ](https://github.com/ABDELLATIF-ADEBOUZ)
 
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](https://github.com/ABDELLATIF-ADEBOUZ/Nike-website/blob/main/screenshot.png)
 
